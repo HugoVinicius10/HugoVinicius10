@@ -14,3 +14,8 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=HugoVinicius10&show_icons=true" />
 </picture>
+
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+          
+

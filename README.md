@@ -1,4 +1,9 @@
-Olá! Sou Hugo Vinicius. Estudante de Ads do IFSC 
+<div align="center">
+<h1>Olá, Sou Hugo Vinicíus</h1>
+<p>Estudante de ADS e sou um novato nessa aventura da programação</p>
+<div><br>
+
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=HugoVinicius10&show_icons=true&theme=dark"

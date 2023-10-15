@@ -17,11 +17,8 @@
 </picture>
 
   <i class="devicon-c-plain"></i>
- <div>
- <img align="center" alt= "Hugo-C" height="30" width="40" scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
- </div>        
+     
           
-   <
    
           
           
